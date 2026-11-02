@@ -36,7 +36,7 @@ Para tomar captura de página completa en DevTools: `Ctrl + Shift + P` (en Mac `
 
 2. **¿En qué parte del sitio elegiste Flexbox y en cuál Grid? Explica el criterio que usaste (una dimensión vs. dos dimensiones).**
 
-   _Tu respuesta:_Utilicé Flexbox en el encabezado, el menú y los bloques de horarios, porque necesitaba acomodar elementos en una dirección, ya fuera en filas o columnas. Utilicé Grid en las tarjetas de ponentes, la portada, la agenda, los patrocinadores y el pie de página, porque necesitaba organizar elementos en filas y columnas.
+   _Tu respuesta:_Utilicé Flexbox en el encabezado, el menú, la portada, los bloques de horario y los patrocinadores, porque permite acomodar elementos en una sola dirección, ya sea en filas o columnas. Utilicé Grid en las tarjetas de ponentes, la agenda y el pie de página, porque permite organizar elementos en filas y columnas al mismo tiempo.
 
 3. **¿Qué hace exactamente `repeat(auto-fit, minmax(240px, 1fr))`? Explícalo como si se lo contaras a un compañero que faltó.**
 
